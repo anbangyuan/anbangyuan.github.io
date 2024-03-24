@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Bangyuan Aurora An 安邦源"
+  pronouns         : "she/her/hers"  
+  bio              : 
+  location         : "Beijing, Hong Kong"
+  employer         : 
   uri              : # URL
   email            : "none@example.org" 
 
@@ -48,15 +48,15 @@ author:
 
   # Social media
   bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
+  facebook         : "https://www.facebook.com/bangyuan.an.5/"
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "https://www.instagram.com/anbangyuan/"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/anbangyuan"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +71,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
+  WeChat           : "aby2000an"
+  WhatsApp         : "+86 15853181852"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
