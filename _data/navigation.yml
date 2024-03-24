@@ -1,22 +1,29 @@
 # main links links
 main:
+
+  - title: "Education"
+    url: /education/      
+    
+  - title: "Research"
+    url: /research/
+    
   - title: "Publications"
     url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Work"
+    url: /work/
+    
+  - title: "Conferences"
+    url: /conferences/
+    
+  - title: "Teaching"
+    url: /teaching/  
+
+  - title: "Reviewer"
+    url: /reviewer/  
+
+  - title: "Travel"
+    url: /travel/  
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
