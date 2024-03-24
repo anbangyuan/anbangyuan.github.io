@@ -7,7 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-PhD in Public Administration/Public Policy                                                                 Research focus: Innovation for sustainability, ESG, Circular economy, Carbon market                             Interests: Travel, K-pop, Piano, Fashion, Food                                                                 ENFP | Aquarius                                                                                                 CV: [An Bangyuan's CV](../assets/cv.pdf)                                                                       TEL: +86 15853181852 | +852 93513466                                                                          Email: anbangyuan@ruc.edu.cn | banaa@connect.ust.hk | anbangyuan@gmail.com | aurora2000@foxmail.com
+**PhD** in **Public Administration/Public Policy**<br>  
+**Research focus:** Innovation for sustainability, ESG, Circular economy, Carbon market<br>
+**Interests:** Travel, K-pop, Piano, Fashion, Food<br>
+ENFP | Aquarius<br>
+**CV:** [An Bangyuan's CV](../assets/cv.pdf)<br>
+**TEL:** +86 15853181852 | +852 93513466<br>
+**Email:** anbangyuan@ruc.edu.cn | banaa@connect.ust.hk | anbangyuan@gmail.com | aurora2000@foxmail.com
 
 
 
