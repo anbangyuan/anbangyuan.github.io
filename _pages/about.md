@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**PhD** in **Public Administration/Public Policy**<br>  
+**PhD** in **Public Administration/Public Policy**<br>
 **Research focus:** Innovation for sustainability, ESG, Circular economy, Carbon market<br>
 **Interests:** Travel, K-pop, Piano, Fashion, Food<br>
 ENFP | Aquarius<br>
