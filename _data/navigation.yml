@@ -1,8 +1,5 @@
 # main links links
-main:
-
-  - title: "Education"
-    url: /education/      
+main: 
     
   - title: "Research"
     url: /research/
@@ -15,15 +12,6 @@ main:
 
   - title: "Travel"
     url: /travel/  
-    
-  - title: "Conferences"
-    url: /conferences/
-    
-  - title: "Teaching"
-    url: /teaching/  
-
-  - title: "Reviewer"
-    url: /reviewer/  
     
   - title: "CV"
     url: /cv/
