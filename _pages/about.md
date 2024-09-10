@@ -36,7 +36,7 @@ I am passionate about engaging with society, which has led me to pursue various 
 
 **Traveling** is a significant part of my life. I spend my spare time exploring and documenting the world through photography and writing. In China, I have been to: Heilongjiang (Harbin), Jilin (Changchun, Yanbian), Liaoning (Shenyang, Dalian), Beijing, Tianjin, Shandong (Jinan, Dezhou, Qingdao, Tai'an), Jiangsu (Nanjing, Suzhou), Shanghai, Zhejiang (Hangzhou, Jiaxing), Fujian (Quanzhou, Xiamen), Guangdong (Guangzhou, Shenzhen, Jiangmen, Chaozhou), Hong Kong, Macau, Guangxi (Nanning, Liuzhou, Guilin), Sichuan (Chengdu, Chuanbei), Chongqing, Gansu (Lanzhou, Gannan, Wuwei, Zhangye), Xinjiang, Shaanxi (Xi'an), etc. Around the world, I have traveled to: USA, Japan, Canada, Singapore, Malaysia, and Indonesia.
 
-I also like to go shopping, play pianos, equestrian, play guitar, learn languages, cooking, watch movies, photography, Latin dance, play video games, write novels, etc.
+I also like to go shopping, play pianos, equestrian, play guitar, learn languages, cooking, watch movies, photography, Latin dance, play video games, write novels, calligraphy, etc.
 
 Reach Me
 ------
