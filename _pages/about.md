@@ -14,7 +14,7 @@ ENFP | Aquarius<br>
 **CV:** [An Bangyuan's CV](../assets/cv.pdf)<br>
 **TEL:** +86 15853181852 | +852 93513466<br>
 **Email:** anbangyuan@ruc.edu.cn | banaa@connect.ust.hk |<br>
-           anbangyuan@gmail.com | aurora2000@foxmail.com
+$~~~~~~~~~$anbangyuan@gmail.com | aurora2000@foxmail.com
 
 
 
