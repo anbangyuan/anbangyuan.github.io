@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-**PhD** in **Public Administration/Public Policy**<br>
-**Research focus:** Innovation for sustainability, ESG, Circular economy, Carbon market, Social governance<br>
+**PhD** in **Public Administration**<br>
+**Research focus:** Innovation for Sustainability, Innovative Social Governance<br>
 **Interests:** Travel, K-pop, Piano, Fashion, Food<br>
 ENFP | Aquarius<br>
 **CV:** [An Bangyuan's CV](../assets/cv.pdf)<br>
@@ -38,6 +38,6 @@ Traveling is a significant part of my life. I spend my spare time exploring and 
 
 I also like to go shopping, play pianos, play guitar, learn languages, cook, watch movies, Latin dance, play video games, write novels, etc.
 
-For more info
+Reach Me
 ------
-You can reach me through [WeChat](assets/wechat.png) and [Instagram](https://www.instagram.com/anbangyuan/)!
+You can chat with me through [WeChat](assets/wechat.png) and [WhatsApp](assets/whatsapp.png)!
