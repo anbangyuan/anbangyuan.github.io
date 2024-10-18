@@ -32,6 +32,23 @@ Education
 
 Research Experience
 ======
+* **Community Enterprises in China: Development, Models and Policy Support**     Sept 2024 – present
+  * Individual Project, RUC Student Research Fund
+  * Supervisor: Prof. Jie Tang, SPAP, RUC
+  * Leading a 4-member team to conduct field studies on 6 community enterprises in Chengdu, Wenzhou, and Suzhou; currently distributing questionnaires and conducting semi-structured interviews
+  * Aimed to explore the development, current status, models, and challenges of community enterprises in China through comparative case analysis, and propose policy recommendations from the perspective of policy innovation
+    
+* **Rural and Community Finance: A Case Study of Guilin Bank**     Jun 2024 – present
+  * Part-time RA, RUC Research Project
+  * Supervisor: Prof. Jie Tang, SPAP, RUC
+  * Participated in field research at 17 branches of Guilin Bank, currently designing questionnaires and interview outlines
+  * To write a chapter on how Guilin Bank engages in social governance through innovative rural and community finance models
+
+* **Urban Governance and Planning Theory**     Feb 2024 – Sept 2024
+  * Part-time RA, RUC SPAP Research Project
+  * Supervisor: Prof. Yumin Ye, SPAP, RUC
+  * Led the collection and organization of theories on urban governance, to be used as a chapter in a book
+
 * **COVID-19 Handling Practices, Policy Communication and Implementation**     Jun 2023 – Oct 2023
   * Part-time RA, APRU Research Project
   * Supervisor: Prof. King Low Chow, PPOL, HKUST
@@ -90,17 +107,22 @@ Project Experience
 
 Work Experience
 ======
+* **Intern**, Department of Strategic Development, Cushman & Wakefield Sept 2024 – present
+  * Joining in bidding and implementation of 3 projects, including field inspections, desktop research, report drafting, and slide making
+  * Conducting market research, including desktop research and telephone interviews, and drafting memo
+  * Mentor: Dr. Zheng Xin
+    
 * **Assistant to the Director**, Department of Social Work (Wujiang) Aug 2024 - Aug 2025
   * Conducting policy research and field investigations, drafted policy documents and reports
   * Assisting with media outreach, including writing video scripts and drafting promotional materials
   * Supporting the organization of events and meetings, including preparing slides and setting up the venue
-  * Mentor: Zhang Xia
+  * Mentor: Ms. Zhang Xia
 
 * **Programme Intern**, UN Global Compact Beijing Office (Beijing) Jan 2024 - Apr 2024
   * Facilitated content localization, encompassing website design, translation, proofreading, and creation of outreach media articles
   * Executed policy, market, and media research and analysis; conducted background checks; drafted reports and memos
   * Organized 5 offline/online activities and events, liaising with regional offices, other UN entities, and diverse stakeholders (government, corporations, media outlets, etc.); made banners and posters; hosted events; and crafted social media content
-  * Mentor: Ge Qian
+  * Mentor: Ms. Ge Qian
 
 * **Part-time Assistant**, Vican Fund (Shenzhen) Mar 2020 - May 2020
   * Independently wrote 3 reports on investment focus during COVID-19, with impact of pandemic on 10 key industries; identified and assessed potential risks for 10 enterprises for in-depth research; formed preliminary investment strategy recommendations
@@ -152,7 +174,7 @@ Journal Reviewing
 
 Awards and Scholarships
 ======
-* RUC Scholarship for Academic Success (Second Prize) Oct 2023 
+* RUC Scholarship for Academic Success (Second Prize) Oct 2023, Oct 2024 
 * 2022 Tsinghua International Case Analysis Competition of Public Policy on SDGs Best Member, Second Place Aug 2022 
 * NEU Outstanding Graduate Cadres (top 1%), NEU Scholarship for Academic Success (top 3%) Jun 2021; Nov 2020, 2019, 2018 
 * CSC 2020 Canada Mitacs Globalink Research Internship Scholarship (C$5,100 + ¥20,000) Dec 2019 
