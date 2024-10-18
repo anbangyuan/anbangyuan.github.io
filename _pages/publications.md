@@ -18,13 +18,3 @@ author_profile: true
   * Chen, Y., **An, B.** Characteristics and Trends of Pneumoconiosis in the Shandong Province, China, 1949–2022.
   * **An, B.** Impact of the US-China Tech War on China-EU Cooperation in Sustainable Energy Innovation: Evidence from Patents.
   * **An, B.** Community Enterprises in China: Development, Models and Policy Support.
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
