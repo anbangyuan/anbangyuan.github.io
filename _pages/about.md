@@ -11,7 +11,7 @@ redirect_from:
 **Research focus:** Innovation for Sustainability, Innovative Social Governance<br>
 **Interests:** Travel, K-pop, Piano, Fashion, Food<br>
 ENFP | Aquarius<br>
-**CV:** [An Bangyuan's CV](../assets/cv.pdf)<br>
+**CV:** [An Bangyuan's CV](https://drive.google.com/file/d/1Trq7ngV_Jgrz3cuqhMLsN9aj0pPmi94A/view?usp=sharing)<br>
 **TEL:** +86 15853181852 | +852 93513466<br>
 **Email:** anbangyuan@ruc.edu.cn | banaa@connect.ust.hk |<br>
            anbangyuan@gmail.com | aurora2000@foxmail.com
