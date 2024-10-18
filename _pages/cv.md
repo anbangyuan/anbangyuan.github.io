@@ -188,7 +188,6 @@ Leadership and Volunteers
   * Vice President, College Student Union, Northeastern University
   * President, Spanish Association, Northeastern University
   * Class Monitor, Northeastern University
-
   * Department of Academic, Social Responsibility Practitioner
   * Department of Internal Coordination, International Association of Volunteers
 
