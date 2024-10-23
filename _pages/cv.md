@@ -14,7 +14,7 @@ redirect_from:
 * Here's my Chinese CV for research.
 * Here's my Chinese CV for work.
 
-hide-my-code
+======================================hide========================================
 
 Education
 ======
