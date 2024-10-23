@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+Here's my English CV for research.
+Here's my English CV for work.
+Here's my Chinese CV for research.
+Here's my Chinese CV for work.
+
+hide-my-code
+
 Education
 ======
 * **Ph.D in Public Administration**, Renmin University of China (Beijing) 2023 - 2027(expected)
