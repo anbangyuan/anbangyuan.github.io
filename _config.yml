@@ -21,8 +21,8 @@ repository               : "anbangyuan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "assets/portfolio.png"
-  name             : "Bangyuan Aurora An   
+  avatar           : "images/portfolio.png"
+  name             : "Bangyuan Aurora An     
                        安邦源"
   pronouns         : "she/her/hers"  
   bio              : 
