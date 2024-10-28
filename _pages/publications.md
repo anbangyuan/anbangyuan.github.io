@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * **Accepted**
-  * Chen, Y., **An, B.**, Ma, Y., & Fu, Z. (2023). Analysis of pneumoconiosis cases and characteristics from 2004–2019 in Shandong Province. Am J Biomed Sci & Res, 2023 20 (1) AJBSR.MS.ID.002668. DOI: 10.34297/AJBSR.2023.20.002668
+  * Chen, Y., **An, B.**, Ma, Y., & Fu, Z. (2023). Analysis of pneumoconiosis cases and characteristics from 2004–2019 in Shandong Province. Am J Biomed Sci & Res, 2023 20 (1) AJBSR.MS.ID.002668. DOI: [10.34297/AJBSR.2023.20.002668] (https://doi.org/10.34297/AJBSR.2023.20.002668)
 
 * **Under Review**
   * **An, B.**, Wang, X., & Chow, K. Three years of COVID in Hong Kong - the Drivers of the Policy, Science, Resources, Economics or Political Will.
