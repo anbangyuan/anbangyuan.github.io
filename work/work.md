@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Wrok"
 permalink: /work/
 author_profile: true
 redirect_from:
