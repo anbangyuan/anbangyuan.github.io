@@ -1,7 +1,12 @@
+---
 layout: archive
-title: "Work"
+title: "Wrok"
 permalink: /work/
 author_profile: true
+redirect_from:
+  - /teaching
+---
+
 
 *Intern*, Department of Strategic Development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sept 2024 – present <br>
 **Cushman & Wakefield (Beijing)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Dr. Xin Zheng <br>
