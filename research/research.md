@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research and Projects"
-permalink: /Research/
+permalink: /research/
 author_profile: true
 redirect_from:
   - /talks
