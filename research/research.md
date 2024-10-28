@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Research
-=
+-
 
 **Community Enterprises in China: Development, Models and Policy Support** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sept 2024 – present <br>
 *Individual Project*, RUC Student Research Fund &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jie Tang, SPAP, RUC <br>
@@ -17,7 +17,7 @@ Research
 
 **Rural and Community Finance: A Case Study of Guilin Bank** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2024 – present<br>
 *Part-time RA*, RUC Research Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jie Tang, SPAP, RUC <br>
-*Participated in field research at 17 branches of Guilin Bank, currently designing questionnaires and interview outlines
+* Participated in field research at 17 branches of Guilin Bank, currently designing questionnaires and interview outlines
 * To write a chapter on how Guilin Bank engages in social governance through innovative rural and community finance models
 
 **COVID-19 Handling Practices, Policy Communication and Implementation** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2023 – Oct 2023 <br>
@@ -49,7 +49,7 @@ Research
 * Investigated experience of prevention of pneumoconiosis abroad, wrote a 6-page literature review; edited manuscript as reviews
 
 Projects
-=
+-
 
 **Urban Governance and Planning Theory** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Feb 2024 – Sept 2024 <br>
 *Part-time RA*, RUC SPAP Research Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Yumin Ye, SPAP, RUC <br>
