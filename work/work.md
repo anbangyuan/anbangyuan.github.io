@@ -1,5 +1,6 @@
 ---
 layout: archive
+title: "Work"
 permalink: /work/
 author_profile: true
 redirect_from:
