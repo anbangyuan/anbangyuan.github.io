@@ -75,7 +75,7 @@ Supervisor: Prof. Yumin Ye, SPAP, RUC <br>
 
 **Towards a Sustainable EV Battery Recycle Chain in 2030: the Role of China and Netherlands** <br>
 Sept 2022 – May 2023 <br>
-*Member*, PPOL Policy Analysis Exercise (Client: Netherlands Innovation Network) 
+*Member*, PPOL Policy Analysis Exercise (Client: Netherlands Innovation Network) <br>
 Supervisor: Prof. Masaru Yarime, PPOL, HKUST <br>
 * Conducted policy analysis, market analysis, and case studies via desktop research and various analysis framework; used R for technology network analysis to identify collaboration chances; interviewed 2 directors for challenges and policy expectations; issued survey to Dutch for policy evaluation for a Logit regression; proposed a threefold policy recommendation framework
 * Lead a 5-member team for a report and presentation on opportunities, challenges, and policy options for bilateral collaboration
