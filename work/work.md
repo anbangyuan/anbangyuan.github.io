@@ -13,11 +13,13 @@ redirect_from:
 * Joining in bidding and implementation of 3 projects, involving field inspections, desktop research, report drafting, and slide making
 * Conducting market research through desktop research and telephone interviews, and drafting detailed memo
 
+
 *Assistant to the Director*, Department of Social Work &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Aug 2024 – present <br> 
 **Wujiang District Government (Suzhou)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Ms. Xia Zhang <br>
 * Conducting policy research and field investigations, drafting policy documents and reports
 * Assisting with media outreach, including writing video scripts and drafting promotional materials
 * Supporting the organization of events and meetings, including preparing slides and setting up the venue
+
 
 *Intern*, Content Management and Marketing Communication &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jan 2024 – Apr 2024 <br>
 **UN Global Compact, China Liaison Office (Beijing)**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Ms. Qian Ge <br>
