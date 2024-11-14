@@ -11,6 +11,9 @@ redirect_from:
 =
 
 
+Nov 09 - Nov 11 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suzhou
+-
+
 Oct 01 - Oct 04 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inner Mongolia
 -
 
