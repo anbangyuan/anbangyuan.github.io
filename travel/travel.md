@@ -14,6 +14,7 @@ redirect_from:
 Nov 09 - Nov 11 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Suzhou
 -
 ![](https://github.com/anbangyuan.github.io/travel/suzhou3.JPG)
+![](https://anbangyuan.github.io/travel/suzhou3.JPG)
 
 Oct 01 - Oct 04 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Inner Mongolia
 -
