@@ -9,10 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-* Here's my English CV for research.
-* Here's my English CV for work.
-* Here's my Chinese CV for research.
-* Here's my Chinese CV for work.
+* Here's my [English CV for research](https://drive.google.com/file/d/1jBwLKmNR_bPmqDb39G_4cWEe4GKPu_Gn/view?usp=sharing).
+* Here's my [Chinese CV for work](https://drive.google.com/file/d/1paOTU7TSdwlJ6YjksQw05dMDC5YhrlS-/view?usp=sharing).
+
+<!--
+<div>
 
 ======================================hide========================================
 
@@ -202,3 +203,6 @@ Leadership and Volunteers
   * **Sponsor Contact**: maintained 15+ school-enterprise cooperation projects (total: 100,000+ CNY), like helping campus recruitment
   * **Content Creation/Media**: authored, reviewed, and revised promotional pieces for events, each with 100 - 1000 individual views
   * **Host/Interpreter**: hosted 10+ campus/college level events; assisted in interpretation in 3 campus/college level activities
+
+</div>
+-->
