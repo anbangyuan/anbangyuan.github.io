@@ -9,8 +9,9 @@ author_profile: true
 
 * **Under Review**
   * **An, B.**, Wang, X., & Chow, K. Three years of COVID in Hong Kong - the Drivers of the Policy, Science, Resources, Economics or Political Will.
-  * Yarime, M., Li, H., **An, B.**, Zuo, R., Li, Z., Li, Z., & Chen, Z. AI for Sustainability in China: Responsible AI Technology in Practice for Better Environmental Sustainability. Global Partnership on Artificial Intelligence.
-  * **An, B.** Opportunities and Challenges to Implement Circular Economy in the GBA: An Analysis on Electric Vehicle Battery Recycling. Science and Public Policy.
+  * **An, B.** Chapter Five: Dedicated to Rural Industries: Promoting the Deep Integration of Rural Finance and Industrial Development. *Rural Finance*.
+  * Yarime, M., Li, H., **An, B.**, Zuo, R., Li, Z., Li, Z., & Chen, Z. AI for Sustainability in China: Responsible AI Technology in Practice for Better Environmental Sustainability. *Global Partnership on Artificial Intelligence*.
+  * **An, B.** Opportunities and Challenges to Implement Circular Economy in the GBA: An Analysis on Electric Vehicle Battery Recycling. *Science and Public Policy*.
 
 * **In Progress**
   * **An, B.** Opportunities and Challenges of Sustainable Agricultural Technology Development: A Case of Agricultural Technology in Saline Alkali Land.
@@ -18,3 +19,4 @@ author_profile: true
   * Chen, Y., **An, B.** Characteristics and Trends of Pneumoconiosis in the Shandong Province, China, 1949–2022.
   * **An, B.** Impact of the US-China Tech War on China-EU Cooperation in Sustainable Energy Innovation: Evidence from Patents.
   * **An, B.** Community Enterprises in China: Development, Models and Policy Support.
+  * **An, B.** Policy Diffusion and Collaborative Governance: A Case Study of Digital Governance in China.
