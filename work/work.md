@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 
-*Intern*, Department of Strategic Development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sept 2024 – present <br>
+*Intern*, Department of Strategic Development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sept 2024 – Dec 2024 <br>
 **Cushman & Wakefield (Beijing)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Dr. Xin Zheng <br>
-* Joining in bidding and implementation of 7 projects, involving field inspections, desktop research, report drafting, and slide making
-* Conducting market research through desktop research and telephone interviews, and drafting detailed memo
+* Assisted in bidding and implementation of 7 projects, involving field inspections, desktop research, report drafting, and slide making
+* Conducted market research through desktop research and telephone interviews, and drafting detailed memo
 <br>
 <br>
 
