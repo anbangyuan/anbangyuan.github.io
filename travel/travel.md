@@ -19,9 +19,13 @@ Jan &nbsp;&nbsp; Zhoukou
 
 Dec &nbsp;&nbsp; Japan
 -
+<img src="https://anbangyuan.github.io/travel/japan21.JPG" alt="japan21" width="270" style="display: block; margin: auto;">
+<img src="https://anbangyuan.github.io/travel/japan22.JPG" alt="japan22" width="270" style="display: block; margin: auto;">
 
 Dec &nbsp;&nbsp; Korea
 -
+<img src="https://anbangyuan.github.io/travel/korea1.JPG" alt="korea1" width="270" style="display: block; margin: auto;">
+<img src="https://anbangyuan.github.io/travel/korea2.JPG" alt="korea2" width="270" style="display: block; margin: auto;">
 
 Nov &nbsp;&nbsp; Hong Kong
 -
