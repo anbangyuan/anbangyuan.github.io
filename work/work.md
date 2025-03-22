@@ -6,7 +6,14 @@ author_profile: true
 redirect_from:
   - /teaching
 ---
-
+*Intern*, Department of International Cooperation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2025 – Jun 2025 <br>
+**China City Center, National Development and Reform Commission** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Ms. Yufan Lian <br>
+* Writing research reports on sustainable cities in Belt and Road countries and China, including data collection,
+literature reviewing, case analysis, and Chinese-English translation
+* Assisting in organizing the Global Environment Facility project conference, including project scheduling, liaison with
+various organizations, and Chinese-English translation of manuscripts
+<br>
+<br>
 
 *Intern*, Department of Strategic Development &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sept 2024 – Dec 2024 <br>
 **Cushman & Wakefield (Beijing)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Dr. Xin Zheng <br>
