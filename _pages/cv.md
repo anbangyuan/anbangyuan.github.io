@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-* Here's my [English CV for research](https://drive.google.com/file/d/1jBwLKmNR_bPmqDb39G_4cWEe4GKPu_Gn/view?usp=sharing).
-* Here's my [Chinese CV for work](https://drive.google.com/file/d/1paOTU7TSdwlJ6YjksQw05dMDC5YhrlS-/view?usp=sharing).
+* Here's my [English CV for research](https://drive.google.com/file/d/1UUIZqkG8JuN9hjbB7U0Qmo_2eZNtAatO/view?usp=sharing).
+* Here's my [Chinese CV for work](https://drive.google.com/file/d/1LRpcEYm8ied9N9NzzJC4AzkNFlOPR9F7/view?usp=sharing).
 
 <!--
 <div>
