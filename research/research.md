@@ -9,6 +9,13 @@ redirect_from:
 
 Research
 -
+**Modernizing Governance in Megacities: Present and Future** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; May 2025 – Jun 2025 <br>
+*Co-PI*, Suzhou Government Fund Fund &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Guodong Ma, SPAP, RUC <br>
+* Led a 4-member team to conduct fieldwork and interviews with civil servants, social workers, and police officers across 20 municipal departments and 25 communities, with key topics included digital empowerment in credit culture development, infrastructure of big data platforms, the 12345 government service hotline system, public opinion management, and the cultivation of social organizations
+* Led the drafting of a 4,000-word policy advisory report and contributed to a 50,000-word internal reference report, with primary responsibility for the section on data governance
+<br>
+<br>
+
 
 **Community Enterprises in China: Development, Models and Policy Support** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sept 2024 – present <br>
 *Individual Project*, RUC Student Research Fund &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jie Tang, SPAP, RUC <br>
@@ -17,10 +24,10 @@ Research
 <br>
 <br>
 
-**Rural and Community Finance: A Case Study of Guilin Bank** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2024 – present<br>
+**Rural and Community Finance: A Case Study of Guilin Bank** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Jun 2024 – Jun 2025<br>
 *Part-time RA*, RUC Research Project &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Prof. Jie Tang, SPAP, RUC <br>
 * Participated in field research at 17 branches of Guilin Bank, currently designing questionnaires and interview outlines
-* To write a chapter on how Guilin Bank engages in social governance through innovative rural and community finance models
+* Wrote a chapter on how Guilin Bank innovated its finance models to empower industry chain and social governance
 <br>
 <br>
 
