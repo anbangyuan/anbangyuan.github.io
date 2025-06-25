@@ -7,10 +7,10 @@ redirect_from:
   - /teaching
 ---
 *Intern*, Department of International Cooperation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mar 2025 – Jun 2025 <br>
-**China City Center, National Development and Reform Commission** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Ms. Yufan Lian <br>
-* Writing research reports on sustainable cities in Belt and Road countries and China, including data collection,
+**China City Center, National Development and Reform Commission** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mentor: Ms. Biye Ni <br>
+* Writing 3 research reports on sustainable cities in Belt and Road countries and China, including data collection,
 literature reviewing, case analysis, and Chinese-English translation
-* Assisting in organizing the Global Environment Facility project conference, including project scheduling, liaison with
+* Assisting in organizing the Global Environment Facility project conferences and courses, including project scheduling, liaison with
 various organizations, and Chinese-English translation of manuscripts
 <br>
 <br>
