@@ -11,7 +11,7 @@ redirect_from:
 **Research focus:** Innovation for Sustainability, Innovative Social Governance<br>
 **Interests:** Travel, K-pop, Piano, Fashion, Food<br>
 ENFP | Aquarius<br>
-**CV:** [An Bangyuan's CV](https://drive.google.com/file/d/1jBwLKmNR_bPmqDb39G_4cWEe4GKPu_Gn/view?usp=sharing) (last updated: 2026, please see the CV page for the latest version) <br>
+**CV:** [An Bangyuan's CV](https://drive.google.com/file/d/1jBwLKmNR_bPmqDb39G_4cWEe4GKPu_Gn/view?usp=sharing) (last updated:  Mar 2026, please see the CV page for the latest version) <br>
 **TEL:** +86 15853181852 | +852 93513466<br>
 **Email:** anbangyuan@ruc.edu.cn | banaa@connect.ust.hk |<br>
            bangyuan.an@oii.ox.ac.uk | bangyuan@sas.upenn.edu |<br>
@@ -35,7 +35,7 @@ I obtained my **Master of Public Policy** degree from the [Hong Kong University 
 
 I hold a **Bachelor of Arts in English** at [Northeastern University (Shenyang)](http://www.fsc.neu.edu.cn), where I was actively involved in student leadership roles, including serving as President of the Spanish Association, Director of the Collge Student Union, and Class Monitor. I studied English at the University of Pennsylvania as an exchange student for one semester. I also attended summer schools at Central University of Finance and Economics, Cornell University, National University of Singapore, and University of Chicago. I won Mitacs-CSC scholarship to assist in research at the University of Alberta under Prof. Karen Pollock. I also earned some national awards in Model United Nations. I studied **Spanish** as my second foreign language and **Korean** as my third foreign language.
 
-I am passionate about engaging with society, which has led me to pursue various **internships** across public and private sectors. My work experience includes positions at National Development and Reform Commission (Beijing City), Cushman & Wakefield (Beijing Office), Wujiang District Committee(Suzhou City), United Nations Global Compact (Beijing Office), and Vcun Fund (Shenzhen City). 
+I am passionate about engaging with society, which has led me to pursue various **internships** across public and private sectors. My work experience includes positions at ByteDance, Chinese National Geography, National Development and Reform Commission, Cushman & Wakefield, Wujiang District Committee(Suzhou City), United Nations Global Compact, and Vcun Fund. 
 
 **Traveling** is a significant part of my life. I spend my spare time exploring and documenting the world through photography and writing. In China, I have been to: Heilongjiang (Harbin), Jilin (Changchun, Yanbian), Liaoning (Shenyang, Dalian), Beijing, Tianjin, Shandong (Jinan, Dezhou, Qingdao, Tai'an, Yantai, Weihai), Jiangsu (Nanjing, Suzhou, Wuxi, Changzhou), Shanghai, Zhejiang (Hangzhou, Jiaxing), Fujian (Quanzhou, Xiamen), Guangdong (Guangzhou, Shenzhen, Jiangmen, Chaozhou), Hong Kong, Macau, Guangxi (Nanning, Liuzhou, Guilin), Sichuan (Chengdu, Chuanbei), Chongqing, Gansu (Lanzhou, Gannan, Wuwei, Zhangye), Ningxia, Xinjiang, Shaanxi (Xi'an), Inner Mongolia, Henan (Zhengzhou, Kaifeng, Zhoukou), etc. Around the world, I have traveled to: USA, Japan, Canada, Singapore, Malaysia, Indonesia, Korea, Qatar, UK, Italy, San Marino, Vatican, Malta, Greece, Hungry, Austria, Czech, Portugal, Spain, Netherland, Luxembourg, Belgium, France, and Monaco.
 
